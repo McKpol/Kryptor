@@ -6,7 +6,16 @@ Nie możesz korzystać ze środków prawnych lub technologicznych , które ogran
 
 UWAGA! Cele komercyjne to również takie jak udostępnienie gry, linku do gry lub inne formy przykładowo na Facebooku oraz napisanie "Że to dzięki nam" pomimo napisania autora, gdyż może być to odebrane jako użycie gry w celu korzyści majątkowej.
 
-Pełna licencja:
+ENG:
+Game on license CC BY-NC-SA 4.0 DEED
+You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+You may not use the material for commercial purposes.
+If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Warning: commercial can be consider like share game, link to game or other form e.g. onn facebook with descripstion "Its by thanks for us" even if you consider author, because this can be consider like use game to gain money benefit.
+
+Full license:
 
 Attribution-NonCommercial-ShareAlike 4.0 International
 
